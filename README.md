@@ -6,10 +6,10 @@ As the workforce of Pewlett Hackard ages, many employees are nearing retirement.
 
 # Results
 
- -- there are 1550 employees eligible for mentorship.
- -- there are 72458 employees eligible for retirement.
- -- there are very few managers eligible for retirement, the majority of those eligible are senior engineers.
- -- as seniority increases, so does the number of employees ready for retirement.
+ - there are 1550 employees eligible for mentorship.
+ - there are 72458 employees eligible for retirement.
+ - there are very few managers eligible for retirement, the majority of those eligible are senior engineers.
+ - as seniority increases, so does the number of employees ready for retirement.
 
 # Summary
 
